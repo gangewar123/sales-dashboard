@@ -12,6 +12,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+## Shots
+<img src="https://github.com/gangewar123/sales-dashboard/blob/master/public/img/Screen%20Recording%202019-12-17%20at%202.33.20%20PM.mov
+" width="350" title="hover text">
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
